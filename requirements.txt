@@ -1,0 +1,7 @@
+DateTime==4.1.1
+Django==1.10.3
+django-extensions==1.7.5
+numpy==1.11.2
+python-dateutil==2.5.3
+pytz==2016.7
+psycopg2==2.6.
